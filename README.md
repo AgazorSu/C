@@ -4,4 +4,4 @@
 
 **I would like to improve my C and Java squills.**
 
-`I would like work in proyect with other people to improve my habilities.`
+`I would like to work in proyect with other people to improve my habilities.`
