@@ -2,9 +2,9 @@
 
 **italic** Example:
 
-	* **italic** This is an example of Markdown files.
-	* **italic** This is an example of Markdown files.
-	* **italic** This is an example of Markdown files.
+	**italic** This is an example of Markdown files.
+	**italic** This is an example of Markdown files.
+	**italic** This is an example of Markdown files.
 # C I am from Spain.
 
 **bold** Example:
